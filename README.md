@@ -35,8 +35,8 @@ Once I have recieved confirmation on nothing malicous I will push it out to a re
 
 All credit for this goes to reddit user SMC0881
 
-
 User's notes on needing a specific netstat package to run the port checks below.
+
 #!/bin/sh
 #Tested on Ubuntu running on Raspberry Pi4
 #My version of Ubuntu for Pi did not have netstat installed. Run sudo apt install net-tools.
