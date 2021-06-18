@@ -1,5 +1,6 @@
 # chiahealthchecker
-Makes a simple batch file of chia run commands walking you through all of the typical Chia Farm Checking
+Is a simple batch file of chia run commands walking you through all of the typical Chia Farm Checking with a guided yes or no prompt process
+
 So far what it does
 
 - Lists your current plot directories so you can make sure they are all there and will be tested
