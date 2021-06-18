@@ -21,7 +21,7 @@ So far what it does
 
 - Color coded text areas to easily distinguish between user input needed, working processes and program reported data.
 
-~CURRENT BETA USER SUBMISSION FOR MAC, LINUX AND PI~
+--------CURRENT BETA USER SUBMISSION FOR MAC, LINUX AND PI - Release under beta releases seperate from above.-----------
 
 This is for testing purposes. A user submitted this to me to help out the MAC, Linux and PI clients.
 
