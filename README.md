@@ -1,6 +1,8 @@
 # Chia Health Checker
 Is a simple batch file of chia run commands walking you through all of the typical Chia Farm Checking with a guided yes or no prompt process
 
+!!!THE CHIA CLIENT AND PROCESSES NEED TO BE ALLREADY RUNNING ON THE MACHINE FOR THE BAT TO RUN CORRECTLY!!! - I didn't initally realize this until after making and releasing this as I had the Chia Client GUI open the entire time doing it.
+
 So far what it does
 
 - Lists your current plot directories so you can make sure they are all there and will be tested
