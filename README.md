@@ -1,4 +1,4 @@
-# chiahealthchecker
+# Chia Health Checker
 Is a simple batch file of chia run commands walking you through all of the typical Chia Farm Checking with a guided yes or no prompt process
 
 So far what it does
