@@ -3,6 +3,9 @@ Is a simple batch file of chia run commands walking you through all of the typic
 
 !!!THE CHIA CLIENT AND PROCESSES NEED TO BE ALLREADY RUNNING ON THE MACHINE FOR THE BAT TO RUN CORRECTLY!!! - I didn't initally realize this until after making and releasing this as I had the Chia Client GUI open the entire time doing it.
 
+Check out the peer reviews and comments on my reddit post for more in depth information etc.
+https://www.reddit.com/r/chia/comments/o2eute/release_chia_health_check_tool_for_chia_client_117/
+
 So far what it does
 
 - Lists your current plot directories so you can make sure they are all there and will be tested
