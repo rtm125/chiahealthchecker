@@ -28,26 +28,26 @@ https://www.reddit.com/r/chia/comments/o2eute/release_chia_health_check_tool_for
 - Color coded text areas to easily distinguish between user input needed, working processes and program reported data.
 
 ---- New 2.0v does everything the old one did but also ----
--Displays your current chia version and an option to launch a browser directly from the tool to the official Chia git hub to easily update your chia client with new releases when needed.
+- Displays your current chia version and an option to launch a browser directly from the tool to the official Chia git hub to easily update your chia client with new releases when needed.
 
--Added a wildcard in the chia root directory so I don't need to update this everytime a release is pushed out and for any previous releases
+- Added a wildcard in the chia root directory so I don't need to update this everytime a release is pushed out and for any previous releases
 ex = cd %LocalAppData%\chia-blockchain\app-1.1.7\resources\app.asar.unpacked\daemon
 is now = cd %LocalAppData%\chia-blockchain\app-\resources\app.asar.unpacked\daemon
 (notice the cute little star here? \app-)
 
--Fixed the quick and full plot checker completing both tasks when selecting quick instead of just one or the other. They are now separate options but both still exist and work.
+- Fixed the quick and full plot checker completing both tasks when selecting quick instead of just one or the other. They are now separate options but both still exist and work.
 
--Added a user suggested edit to include a separate restart option for Chia ALL, which only restarts time lords additionally to the previous one, probably not needed but why not. If you run a time lord, you can now restart it with this! lol
+- Added a user suggested edit to include a separate restart option for Chia ALL, which only restarts time lords additionally to the previous one, probably not needed but why not. If you run a time lord, you can now restart it with this! lol
 
--Added a note that the chia GUI must be open and running for this tool to work as it is all the official Chia commands being used, just packaged up so you don't need to type them. Besides the windows port check, that's a window thing.
+- Added a note that the chia GUI must be open and running for this tool to work as it is all the official Chia commands being used, just packaged up so you don't need to type them. Besides the windows port check, that's a window thing.
 
--Added credit for the user that created the Linux, Mac and Rasp PI ports and donation addresses for him on the windows version. HUGE THANK YOU to him!
+- Added credit for the user that created the Linux, Mac and Rasp PI ports and donation addresses for him on the windows version. HUGE THANK YOU to him!
 
--Added credit to two other users that provided the wild card * entry to make this not chia client version dependent and reported the issue of the tool running both plot checks instead of just one.
+- Added credit to two other users that provided the wild card * entry to make this not chia client version dependent and reported the issue of the tool running both plot checks instead of just one.
 
--Added reddit link, cause I can?!
+- Added reddit link, cause I can?!
 
--Added spacing and breaks to make the text more human readable and fixed some typos and spelling errors. (don't worry, I am sure something is still misspelled).
+- Added spacing and breaks to make the text more human readable and fixed some typos and spelling errors. (don't worry, I am sure something is still misspelled).
 
 ----CURRENT BETA USER SUBMISSION FOR MAC, LINUX AND PI - Release under beta releases seperate from above.----
 
