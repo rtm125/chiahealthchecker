@@ -32,8 +32,8 @@ https://www.reddit.com/r/chia/comments/o2eute/release_chia_health_check_tool_for
 
 - Added a wildcard in the chia root directory so I don't need to update this everytime a release is pushed out and for any previous releases
 ex = cd %LocalAppData%\chia-blockchain\app-1.1.7\resources\app.asar.unpacked\daemon
-is now = cd %LocalAppData%\chia-blockchain\app-\resources\app.asar.unpacked\daemon
-(notice the cute little star here? \app-)
+is now = cd %LocalAppData%\chia-blockchain\app-*\resources\app.asar.unpacked\daemon
+(notice the cute little star* here? \app-)
 
 - Fixed the quick and full plot checker completing both tasks when selecting quick instead of just one or the other. They are now separate options but both still exist and work.
 
@@ -55,7 +55,7 @@ PLEASE REVIEW AND USE AT YOUR OWN RISK - I quickly reviewed the code and saw not
 
 Also if modifications are needed for mac/linux please feel free to make them and submit to me by either a commit suggestion on git hub or message me on reddit.
 
-----So far several users on reddit have reviewed the code and tested on Linux and Rasp Pi, still need a Mac confirmation it works----
+----So far several users on reddit have reviewed the code and tested on Linux and Rasp Pi, still need a Mac confirmation it works---
 I will probably move this to a release very soon even without Mac's testing, people have suggested that it should work on Mac. I'm sure i'll hear about it if it dosn't.
 
 All credit for this goes to reddit user SMC0881 - This is for testing purposes. SMC0881 submitted this to me to help out the M, Linux and PI clients.
