@@ -32,8 +32,8 @@ https://www.reddit.com/r/chia/comments/o2eute/release_chia_health_check_tool_for
 
 - Added a wildcard in the chia root directory so I don't need to update this everytime a release is pushed out and for any previous releases
 ex = cd %LocalAppData%\chia-blockchain\app-1.1.7\resources\app.asar.unpacked\daemon
-is now = cd %LocalAppData%\chia-blockchain\app-*\resources\app.asar.unpacked\daemon
-(notice the cute little star* here? \app-)
+is now = cd %LocalAppData%\chia-blockchain\app-(starsymbol-lol)\resources\app.asar.unpacked\daemon
+(supposed to be a star here, won't show on this readme because it makes it italic instead of being a star... \app-(starsymbol-lol))
 
 - Fixed the quick and full plot checker completing both tasks when selecting quick instead of just one or the other. They are now separate options but both still exist and work.
 
